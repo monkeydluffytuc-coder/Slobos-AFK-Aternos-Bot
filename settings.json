@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pisello-zgbN.aternos.me",
-    "port": 43695,
+    "ip": "pishello.aternos.me",
+    "port": 39087,
     "version": "",
     "try-creative": false
   },
