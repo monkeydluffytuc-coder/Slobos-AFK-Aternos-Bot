@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pishello.aternos.me",
+    "ip": "vimba.aternos.host",
     "port": 39087,
     "version": "1.16.5",
     "try-creative": false
